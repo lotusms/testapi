@@ -2,28 +2,7 @@
   "batches": [
     {
       "shipperid": "22",
-      "trackingnumber": "",
-      "batchescompleted": [
-        { "name": "9345623451" },
-        { "name": "9456453453" },
-        { "name": "9667667656" },
-        { "name": "9789467335" },
-        { "name": "9234366467" },
-        { "name": "9235546678" },
-        { "name": "9222290988" }
-      ],
-      "batchername": "John Doe",
-      "envelope": "125",
-      "datereceived": "",
-      "dateentry": "",
-      "appbarcodes": ["120012563", "120012564", "120012565"],
-      "apptype": "DS-82",
-      "agency": "Philadelphia",
-      "dept": "Batching",
-      "processingsite": "Delaware",
-      "debitaccount": "3855 7784 1755",
-      "arearequest": "Public Sector Lockbox",
-      "reason": "Cash Received"
+      "trackingnumber": ""
     }
   ]
 }
