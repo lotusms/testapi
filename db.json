@@ -25,5 +25,30 @@
       "arearequest": "Public Sector Lockbox",
       "reason": "Cash Received"
     }
-  ]
+  ],
+  "agencies": [
+    { "id": "ag1", "title": "Atlanta" },
+    { "id": "ag2", "title": "Boston" },
+    { "id": "ag3", "title": "Buffalo" },
+    { "id": "ag4", "title": "Charleston" },
+    { "id": "ag5", "title": "Chicago" },
+    { "id": "ag6", "title": "Colorado" },
+    { "id": "ag7", "title": "Connecticut" },
+    { "id": "ag8", "title": "Dallas" },
+    { "id": "ag9", "title": "Detroit" },
+    { "id": "ag10", "title": "El Paso" },
+    { "id": "ag11", "title": "Houston" },
+    { "id": "ag12", "title": "Los Angeles" },
+    { "id": "ag13", "title": "Miami" },
+    { "id": "ag14", "title": "Minneapolis" },
+    { "id": "ag15", "title": "New Orleans" },
+    { "id": "ag16", "title": "New York" },
+    { "id": "ag17", "title": "Philadelphia" },
+    { "id": "ag18", "title": "San Diego" },
+    { "id": "ag19", "title": "San Francisco" },
+    { "id": "ag20", "title": "Seattle" },
+    { "id": "ag21", "title": "Vermont" },
+    { "id": "ag22", "title": "Washington" }
+  ],
+  "agenciesinuse": []
 }
