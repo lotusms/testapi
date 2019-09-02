@@ -50,28 +50,5 @@
     { "id": "ag21", "title": "Vermont" },
     { "id": "ag22", "title": "Washington" }
   ],
-  "agenciesinuse": [
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" },
-    { "id": "", "title": "" }
-  ]
+  "agenciesinuse": []
 }
