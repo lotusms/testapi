@@ -544,6 +544,115 @@
           ]
         }
       ]
+    },
+    {
+      "id": "pod6",
+      "number": 6,
+      "selected": false,
+      "ibml": [
+        {
+          "id": "ibml6",
+          "close": false
+        }
+      ],
+      "workstations": [
+        {
+          "id": 61,
+          "number": "6.1",
+          "close": true,
+          "selected": false,
+          "agencies": [
+            {
+              "id": 6101,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6102,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6103,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6104,
+              "title": "",
+              "selected": false,
+              "close": false
+            }
+          ]
+        },
+        {
+          "id": 62,
+          "number": "6.2",
+          "close": false,
+          "selected": false,
+          "agencies": [
+            {
+              "id": 6201,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6202,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6203,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6204,
+              "title": "",
+              "selected": false,
+              "close": false
+            }
+          ]
+        },
+        {
+          "id": 63,
+          "number": "6.3",
+          "close": true,
+          "selected": false,
+          "agencies": [
+            {
+              "id": 6301,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6302,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6303,
+              "title": "",
+              "selected": false,
+              "close": false
+            },
+            {
+              "id": 6304,
+              "title": "",
+              "selected": false,
+              "close": false
+            }
+          ]
+        }
+      ]
     }
   ],
   "batches": [
@@ -571,392 +680,6 @@
       "debitaccount": "3855 7784 1755",
       "arearequest": "Public Sector Lockbox",
       "reason": "Cash Received"
-    }
-  ],
-  "mailsorterfeeds": [
-    {
-      "dropnumber": "",
-      "trackingnumber": "",
-      "poboxes": [
-        { "option": "" },
-        { "option": "Atlanta" },
-        { "option": "Boston" },
-        { "option": "Buffalo" },
-        { "option": "Charleston" },
-        { "option": "Chicago" },
-        { "option": "Colorado" },
-        { "option": "Connecticut" },
-        { "option": "Dallas" },
-        { "option": "Detroit" },
-        { "option": "El Paso" },
-        { "option": "Houston" },
-        { "option": "Los Angeles" },
-        { "option": "Miami" },
-        { "option": "Minneapolis" },
-        { "option": "New Orleans" },
-        { "option": "New York" },
-        { "option": "Philadelphia" },
-        { "option": "San Diego" },
-        { "option": "San Francisco" },
-        { "option": "Seattle" },
-        { "option": "Vermont" },
-        { "option": "Washington" }
-      ],
-      "divertlocation": "",
-      "shipperid": "",
-      "mailsorterlog": [
-        {
-          "shipperid": "011156982",
-          "trackingnumber": "0012455698",
-          "pobox": "68",
-          "lockbox": "68"
-        },
-        {
-          "shipperid": "011156983",
-          "trackingnumber": "0012455699",
-          "pobox": "68",
-          "lockbox": "629"
-        },
-        {
-          "shipperid": "011156984",
-          "trackingnumber": "0012455700",
-          "pobox": "629",
-          "lockbox": "68"
-        },
-        {
-          "shipperid": "011156985",
-          "trackingnumber": "0012455701",
-          "pobox": "629",
-          "lockbox": "68"
-        },
-        {
-          "shipperid": "011156986",
-          "trackingnumber": "0012455702",
-          "pobox": "629",
-          "lockbox": "3085"
-        },
-        {
-          "shipperid": "011156987",
-          "trackingnumber": "0012455702",
-          "pobox": "629",
-          "lockbox": "3085"
-        },
-        {
-          "shipperid": "011156988",
-          "trackingnumber": "0012455702",
-          "pobox": "629",
-          "lockbox": "68"
-        },
-        {
-          "shipperid": "011156989",
-          "trackingnumber": "0012455703",
-          "pobox": "68",
-          "lockbox": "3085"
-        }
-      ]
-    }
-  ],
-  "barcodes": [
-    {
-      "labelrolls": [{ "labelroll": "" }],
-      "locations": [
-        { "location": "" },
-        { "location": "loc1" },
-        { "location": "loc2" },
-        { "location": "loc3" },
-        { "location": "loc4" },
-        { "location": "loc5" },
-        { "location": "loc6" },
-        { "location": "loc7" },
-        { "location": "loc8" },
-        { "location": "loc9" }
-      ],
-      "labelinventorylog": [
-        {
-          "roll": "011156982",
-          "location": "2",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "Luis Silva"
-        },
-        {
-          "roll": "011156983",
-          "location": "1",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "John Doe"
-        },
-        {
-          "roll": "011156984",
-          "location": "3",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "John Doe"
-        },
-        {
-          "roll": "011156985",
-          "location": "8",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "Luis Silva"
-        },
-        {
-          "roll": "011156986",
-          "location": "5",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "Luis Silva"
-        },
-        {
-          "roll": "011156987",
-          "location": "9",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "Peter Peterson"
-        },
-        {
-          "roll": "011156988",
-          "location": "3",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "Peter Peterson"
-        },
-        {
-          "roll": "011156989",
-          "location": "7",
-          "datetime": "08/23/2019 15:45",
-          "enteredby": "Luis Silva"
-        }
-      ],
-      "barcodeid": "",
-      "pods": [
-        { "id": "", "option": "" },
-        { "id": "pod1", "option": "1" },
-        { "id": "pod2", "option": "2" },
-        { "id": "pod3", "option": "3" },
-        { "id": "pod4", "option": "4" },
-        { "id": "pod5", "option": "5" },
-        { "id": "pod6", "option": "6" },
-        { "id": "pod7", "option": "7" },
-        { "id": "pod8", "option": "8" },
-        { "id": "pod9", "option": "9" },
-        { "id": "pod10", "option": "10" },
-        { "id": "pod11", "option": "11" },
-        { "id": "pod12", "option": "12" }
-      ],
-      "workstations": [
-        { "id": "", "option": "" },
-        { "id": "ws1", "option": "1" },
-        { "id": "ws2", "option": "2" },
-        { "id": "ws3", "option": "3" }
-      ],
-      "issuelog": [
-        {
-          "roll": "011156982",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "Peter Peterson",
-          "issuedtopod": "6",
-          "issuedtows": "3"
-        },
-        {
-          "roll": "011156983",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "Peter Peterson",
-          "issuedtopod": "3",
-          "issuedtows": "1"
-        },
-        {
-          "roll": "011156984",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "Peter Peterson",
-          "issuedtopod": "4",
-          "issuedtows": "2"
-        },
-        {
-          "roll": "011156985",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "Luis Silva",
-          "issuedtopod": "4",
-          "issuedtows": "1"
-        },
-        {
-          "roll": "011156986",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "Luis Silva",
-          "issuedtopod": "1",
-          "issuedtows": "2"
-        },
-        {
-          "roll": "011156987",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "John Doe",
-          "issuedtopod": "7",
-          "issuedtows": "1"
-        },
-        {
-          "roll": "011156988",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "Peter Peterson",
-          "issuedtopod": "10",
-          "issuedtows": "3"
-        },
-        {
-          "roll": "011156989",
-          "issuedon": "08/23/2019 15:45",
-          "issuedby": "Peter Peterson",
-          "issuedtopod": "9",
-          "issuedtows": "2"
-        }
-      ],
-      "agencies": [
-        {
-          "id": "ag1",
-          "title": "Atlanta",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag2",
-          "title": "Boston",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag3",
-          "title": "Buffalo",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag4",
-          "title": "Charleston",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag5",
-          "title": "Chicago",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag6",
-          "title": "Colorado",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag7",
-          "title": "Connecticut",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag8",
-          "title": "Dallas",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag9",
-          "title": "Detroit",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag10",
-          "title": "El Paso",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag11",
-          "title": "Houston",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag12",
-          "title": "Los Angeles",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag13",
-          "title": "Miami",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag14",
-          "title": "Minneapolis",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag15",
-          "title": "New Orleans",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag16",
-          "title": "New York",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag17",
-          "title": "Philadelphia",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag18",
-          "title": "San Diego",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag19",
-          "title": "San Francisco",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag20",
-          "title": "Seattle",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag21",
-          "title": "Vermont",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        },
-        {
-          "id": "ag22",
-          "title": "Washington",
-          "instock": "4",
-          "min": "2",
-          "max": "10"
-        }
-      ]
     }
   ],
   "agencies": [
