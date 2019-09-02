@@ -362,15 +362,6 @@
     { "id": "ws24", "number": 8.3 },
     { "id": "ws25", "number": 9.1 },
     { "id": "ws26", "number": 9.2 },
-    { "id": "ws27", "number": 9.3 },
-    { "id": "ws28", "number": 10.1 },
-    { "id": "ws29", "number": 10.2 },
-    { "id": "ws30", "number": 10.3 },
-    { "id": "ws31", "number": 11.1 },
-    { "id": "ws32", "number": 11.2 },
-    { "id": "ws33", "number": 11.3 },
-    { "id": "ws34", "number": 12.1 },
-    { "id": "ws35", "number": 12.2 },
-    { "id": "ws36", "number": 12.3 }
+    { "id": "ws27", "number": 9.3 }
   ]
 }
